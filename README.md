@@ -1,5 +1,5 @@
-# [Project Title]
-### A Project by Team Celritas 🏎️
+# FSAE Mechenaical Steering System 
+### A Project for Team Celritas 🏎️
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/26426463/223730018-090995f3-529b-4654-9bdd-02755e114565.gif" width="600">
