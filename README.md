@@ -2,7 +2,7 @@
 ### A Project for Team Celritas 🏎️
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/26426463/223730018-090995f3-529b-4654-9bdd-02755e114565.gif" width="600">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOWx5ZzRtcjB2MjR1NDM0cDM3OHBiM3N1OGhqNjM5cDF2bjA5M2JmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGrUGXWmY9hyXhInXx/giphy.gif" width="600">
 </p>
 
 ---
