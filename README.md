@@ -32,5 +32,6 @@ Stay updated with our progress as we gear up for the competition!
 "https://studio-kappa-steel.vercel.app/"><strong>Official Website</strong></a> •
   <a href="https://www.instagram.com/celeritas_automotive?igsh=ZXo5a3NtdHRkdzN0
 "><strong>Instagram</strong></a> •
-  <a href="[YOUR_LINKEDIN_LINK]"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/company/celeritas-automotive/
+"><strong>LinkedIn</strong></a>
 </p>
