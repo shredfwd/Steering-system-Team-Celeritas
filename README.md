@@ -28,7 +28,8 @@ Full public access to this repository, including all technical details and docum
 Stay updated with our progress as we gear up for the competition!
 
 <p align="center">
-  <a href="[YOUR_WEBSITE_LINK]"><strong>Official Website</strong></a> •
+  <a href=
+"https://studio-kappa-steel.vercel.app/"><strong>Official Website</strong></a> •
   <a href="[YOUR_INSTAGRAM_LINK]"><strong>Instagram</strong></a> •
   <a href="[YOUR_LINKEDIN_LINK]"><strong>LinkedIn</strong></a>
 </p>
